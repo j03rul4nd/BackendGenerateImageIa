@@ -16,7 +16,7 @@ The backend is built with Node.js and uses Express to handle HTTP requests and W
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/j03rul4nd/BackendGenerateImageIa.git
     cd your-repo
     ```
     
